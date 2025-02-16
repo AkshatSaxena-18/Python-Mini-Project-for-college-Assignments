@@ -1,3 +1,4 @@
+Password-Generator
 
  🔐 Password Generator & Manager
 
