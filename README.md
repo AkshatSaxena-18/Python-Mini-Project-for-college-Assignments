@@ -24,7 +24,7 @@ cd Python-Mini-Project-for-college-Assignments
 
 2️⃣ Install Dependencies
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 3️⃣ Run the Application
 
