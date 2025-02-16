@@ -18,9 +18,9 @@ A simple password generator and manager built using **Python & Tkinter**. It all
 
 1️⃣ Clone the Repository  
 
-git clone https://github.com/AkshatSaxena-18/password-manager.git
+git clone https://github.com/AkshatSaxena-18/Python-Mini-Project-for-college-Assignments.git
 
-cd password-manager
+cd Python-Mini-Project-for-college-Assignments
 
 2️⃣ Install Dependencies
 
