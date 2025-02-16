@@ -3,7 +3,8 @@
 
 A simple password generator and manager built using **Python & Tkinter**. It allows users to generate strong passwords, store them securely with encryption, and retrieve saved passwords.
 
- 🚀 Features
+🚀 Features
+ 
 ✅ Generate strong random passwords  
 ✅ Copy passwords to the clipboard  
 ✅ Save passwords securely with encryption  
