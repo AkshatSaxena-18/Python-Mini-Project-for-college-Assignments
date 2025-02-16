@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Password-Generator
-In this Reposiotory, I created a project on Password Generator
-=======
+
  🔐 Password Generator & Manager
 
 A simple password generator and manager built using **Python & Tkinter**. It allows users to generate strong passwords, store them securely with encryption, and retrieve saved passwords.
@@ -31,6 +28,3 @@ pip install -r requirements.txt
 
 python main.py
 
-
-
->>>>>>> c6eb6e9 (Initial commit - Password Manager)
