@@ -1,7 +1,7 @@
 project:
   name: Password Generator and Manager
   version: 1.0
-  author: Your Name
+  author: Akshat Saxena
   description: |
     A simple password generator and manager 
     that allows users to generate, save, 
