@@ -1,5 +1,4 @@
-#Password-Generator
-
+# Password-Generator
  🔐 Password Generator & Manager
 
 A simple password generator and manager built using **Python & Tkinter**. It allows users to generate strong passwords, store them securely with encryption, and retrieve saved passwords.
