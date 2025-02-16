@@ -1,0 +1,20 @@
+project:
+  name: Password Generator and Manager
+  version: 1.0
+  author: Your Name
+  description: |
+    A simple password generator and manager 
+    that allows users to generate, save, 
+    and retrieve passwords securely.
+
+settings:
+  password_length: 15
+  encryption: true
+  save_to_file: passwords.json
+
+dependencies:
+  - tkinter
+  - random
+  - string
+  - json
+  - base64
