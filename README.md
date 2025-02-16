@@ -3,7 +3,7 @@
 
 A simple password generator and manager built using **Python & Tkinter**. It allows users to generate strong passwords, store them securely with encryption, and retrieve saved passwords.
 
-🚀 Features
+# 🚀 Features
  
 ✅ Generate strong random passwords  
 ✅ Copy passwords to the clipboard  
@@ -11,10 +11,10 @@ A simple password generator and manager built using **Python & Tkinter**. It all
 ✅ Retrieve and decrypt saved passwords  
 ✅ User-friendly GUI with a tab-based interface  
 
- 🛠 Tech Stack
+ # 🛠 Tech Stack
 - Python (Tkinter, Random, String, JSON, Base64)
 
- 📦 Installation & Setup
+ # 📦 Installation & Setup
 
 1️⃣ Clone the Repository  
 
